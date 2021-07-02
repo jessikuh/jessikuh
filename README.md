@@ -1,8 +1,8 @@
-# Greetings! 🧠 I'm Jessica.
+# Greetings! 🧠
 
-## I am a Fullstack Software Engineer at BoviSync 🐄
+## I'm Jessica, a Fullstack Software Engineer at BoviSync 🐄
 
-- 🌟 I am currently working on a personal project called Solus Orbis
+- 🌟 I am currently working on a personal project called Solus Orbis.
 - 📚 I am attempting to learn more about AWS and Kubernetes.
 - 🎮 I enjoy casual video game play now, but was once a hardcore World of Warcraft player.
 
