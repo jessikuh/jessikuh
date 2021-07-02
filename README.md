@@ -1,4 +1,10 @@
-### Greetings! 🧠
+# Greetings! 🧠 I'm Jessica.
+
+## I am a Fullstack Software Engineer at BoviSync 🐄
+
+- 🌟 I am currently working on a personal project called Solus Orbis
+- 📚 I am attempting to learn more about AWS and Kubernetes.
+- 🎮 I enjoy casual video game play now, but was once a hardcore World of Warcraft player.
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
