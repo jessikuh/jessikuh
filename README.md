@@ -1,6 +1,6 @@
 # Greetings! 🧠
 
-## I'm Jessica, a Fullstack Software Engineer at BoviSync 🐄
+## I'm Jessica, a Fullstack Software Engineer at AVOXI 🌎 📞
 
 - 🌟 I am currently working on a personal project called Solus Orbis.
 - 📚 I am learning more about AWS and Kubernetes.
