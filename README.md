@@ -34,13 +34,15 @@ Sunday                   1211 commits        █████████░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     1 hr 4 mins         █████████████████████████   99.87 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             1 hr 3 mins         █████████████████████████   98.64 % 
+IntelliJ                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -56,7 +58,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2024 18:39:38 UTC
+ Last Updated on 03/01/2024 18:39:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
