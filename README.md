@@ -1,6 +1,6 @@
 # Greetings! 🧠
 
-## I'm Jessica, a Fullstack Software Engineer at AVOXI 🌎 📞
+## I'm Jessica, a Software Engineer :sparkles:
 
 - 🌟 I am currently working on a personal project called Solus Orbis.
 - 📚 I am learning more about AWS and Kubernetes.
