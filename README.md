@@ -34,18 +34,18 @@ Sunday                   1483 commits        █████████░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 10 hrs 48 mins      ███████████████░░░░░░░░░░   58.68 % 
-TypeScript               3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Bash                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Lua                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Markdown                 10 hrs 5 mins       █████████████████░░░░░░░░   67.02 % 
+Bash                     2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+TypeScript               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Lua                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 21 mins      █████████████████████████   99.74 % 
-IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              15 hrs 1 min        █████████████████████████   99.68 % 
+IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      18 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,7 +61,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2026 20:03:11 UTC
+ Last Updated on 22/07/2026 19:55:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
