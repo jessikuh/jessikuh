@@ -7,6 +7,8 @@
 - 🎮 I enjoy casual video game play now, but was once a hardcore World of Warcraft player.
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2035%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -48,6 +50,30 @@ IntelliJ IDEA            13 mins             ░░░░░░░░░░░�
 Mac                      16 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 2 mins (100.0%)
+
+✍️ 4,586 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 187,907,690 Input Tokens, 812,825 Output Tokens
+
+💵 $626.92 Estimated AI Cost This Week
+
+🧠 41 AI Sessions, 296 AI Prompts
+
+Sonnet                   5,087 lines         ████████████████████████░   96.73 % 
+Opus                     172 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,304 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -61,7 +87,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:46:26 UTC
+ Last Updated on 27/07/2026 20:07:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
