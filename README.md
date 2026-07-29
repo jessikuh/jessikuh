@@ -7,6 +7,8 @@
 - 🎮 I enjoy casual video game play now, but was once a hardcore World of Warcraft player.
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-234%20hrs%207%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -34,43 +36,44 @@ Sunday                   169 commits         █████████░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 5 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.13 % 
-TypeScript               2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-YAML                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Go                       1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Markdown                 5 hrs 48 mins       ███████████░░░░░░░░░░░░░░   43.49 % 
+Go                       2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+TypeScript               2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+YAML                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 17 mins      ███████████████████████░░   92.20 % 
-GoLand                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Claude Code              11 hrs 26 mins      █████████████████████░░░░   85.54 % 
+GoLand                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+IntelliJ IDEA            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Mac                      13 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 48 mins (96.19%)
+⏱ AI Coding Time: 12 hrs 25 mins (92.95%)
 
-✍️ 7,700 lines written by AI, 85 lines written by hand (98.91% AI-written)
+✍️ 9,557 lines written by AI, 87 lines written by hand (99.1% AI-written)
 
-🔤 153,194,867 Input Tokens, 668,621 Output Tokens
+🔤 148,168,537 Input Tokens, 688,695 Output Tokens
 
-💵 $565.18 Estimated AI Cost This Week
+💵 $567.40 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 268 AI Prompts
+🧠 27 AI Sessions, 283 AI Prompts
 
-Sonnet                   6,315 lines         ██████████████████░░░░░░░   72.58 % 
-Opus                     2,386 lines         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Sonnet                   5,890 lines         ██████████████░░░░░░░░░░░   55.53 % 
+Opus                     4,717 lines         ███████████░░░░░░░░░░░░░░   44.47 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.91% of written lines came from AI
-📚 Verbose Prompter — average 2,274 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.12% of changed lines were hand-edited
+🤖 AI-Driven — 99.1% of written lines came from AI
+📚 Verbose Prompter — average 1,984 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +86,7 @@ Go                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:02:15 UTC
+ Last Updated on 29/07/2026 19:53:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
