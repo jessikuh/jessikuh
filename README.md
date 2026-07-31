@@ -36,44 +36,44 @@ Sunday                   169 commits         █████████░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
-Go                       2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-TypeScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-YAML                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Go                       2 hrs 36 mins       ███████████████░░░░░░░░░░   58.90 % 
+Markdown                 1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+go.mod                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 47 mins       ███████████████████░░░░░░   76.37 % 
-GoLand                   1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-IntelliJ IDEA            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Claude Code              1 hr 55 mins        ███████████░░░░░░░░░░░░░░   45.43 % 
+GoLand                   1 hr 53 mins        ███████████░░░░░░░░░░░░░░   44.54 % 
+IntelliJ IDEA            19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 💻 Operating System: 
-Mac                      10 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 45 mins (85.88%)
+⏱ AI Coding Time: 2 hrs 48 mins (66.11%)
 
-✍️ 8,761 lines written by AI, 87 lines written by hand (99.02% AI-written)
+✍️ 7,452 lines written by AI, 87 lines written by hand (98.85% AI-written)
 
-🔤 97,744,114 Input Tokens, 543,863 Output Tokens
+🔤 34,371,285 Input Tokens, 334,411 Output Tokens
 
-💵 $417.93 Estimated AI Cost This Week
+💵 $241.47 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 219 AI Prompts
+🧠 8 AI Sessions, 97 AI Prompts
 
-Sonnet                   5,100 lines         █████████████░░░░░░░░░░░░   51.95 % 
-Opus                     4,717 lines         ████████████░░░░░░░░░░░░░   48.05 % 
+Opus                     4,717 lines         ██████████████░░░░░░░░░░░   55.79 % 
+Sonnet                   3,738 lines         ███████████░░░░░░░░░░░░░░   44.21 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.02% of written lines came from AI
-📚 Verbose Prompter — average 1,710 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.01% of changed lines were hand-edited
+🤖 AI-Driven — 98.85% of written lines came from AI
+📄 Detailed Prompter — average 503 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 1.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +86,7 @@ Go                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:03:14 UTC
+ Last Updated on 31/07/2026 20:03:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
