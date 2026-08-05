@@ -36,41 +36,21 @@ Sunday                   169 commits         █████████░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Go                       1 hr 24 mins        ████████████████░░░░░░░░░   62.51 % 
-Markdown                 50 mins             █████████░░░░░░░░░░░░░░░░   37.29 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Go                       27 mins             ███████████████████████░░   92.19 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-GoLand                   1 hr 13 mins        ██████████████░░░░░░░░░░░   54.13 % 
-Claude Code              49 mins             █████████░░░░░░░░░░░░░░░░   36.96 % 
-IntelliJ IDEA            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+GoLand                   29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (58.57%)
-
-✍️ 2,279 lines written by AI, 2 lines written by hand (99.91% AI-written)
-
-🔤 7,498,500 Input Tokens, 92,332 Output Tokens
-
-💵 $39.80 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 56 AI Prompts
-
-Opus                     2,331 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 797 characters per prompt
-🔁 Iterative Prompter — average 56 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +63,7 @@ Go                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:09:26 UTC
+ Last Updated on 05/08/2026 20:09:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
