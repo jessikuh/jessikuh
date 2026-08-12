@@ -7,7 +7,7 @@
 - 🎮 I enjoy casual video game play now, but was once a hardcore World of Warcraft player.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-235%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,19 +36,41 @@ Sunday                   169 commits         █████████░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.99 % 
+TypeScript               2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+YAML                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Text                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              7 hrs 34 mins       ████████████████████████░   96.67 % 
+IntelliJ IDEA            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 hrs 49 mins (100.0%)
+
+✍️ 3,504 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 14,794,470 Input Tokens, 790,870 Output Tokens
+
+💵 $102.11 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 82 AI Prompts
+
+Sonnet                   3,683 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,726 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,7 +83,7 @@ Go                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:35:51 UTC
+ Last Updated on 12/08/2026 19:38:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
