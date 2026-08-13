@@ -7,7 +7,7 @@
 - 🎮 I enjoy casual video game play now, but was once a hardcore World of Warcraft player.
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2032%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -36,40 +36,40 @@ Sunday                   169 commits         █████████░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.99 % 
-TypeScript               2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-YAML                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Text                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Markdown                 2 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.69 % 
+TypeScript               2 hrs               ████████░░░░░░░░░░░░░░░░░   32.90 % 
+YAML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 34 mins       ████████████████████████░   96.67 % 
-IntelliJ IDEA            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Claude Code              5 hrs 51 mins       ████████████████████████░   95.74 % 
+IntelliJ IDEA            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 💻 Operating System: 
-Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 49 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 6 mins (100.0%)
 
-✍️ 3,504 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,328 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,794,470 Input Tokens, 790,870 Output Tokens
+🔤 13,575,102 Input Tokens, 672,775 Output Tokens
 
-💵 $102.11 Estimated AI Cost This Week
+💵 $91.74 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 82 AI Prompts
+🧠 19 AI Sessions, 77 AI Prompts
 
-Sonnet                   3,683 lines         █████████████████████████   100.00 % 
+Sonnet                   3,503 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,726 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 8,868 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -83,7 +83,7 @@ Go                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:38:20 UTC
+ Last Updated on 13/08/2026 19:34:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
