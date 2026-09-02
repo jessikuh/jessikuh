@@ -36,41 +36,19 @@ Sunday                   169 commits         █████████░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Terraform                58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
-Bash                     50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-JSON                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              3 hrs 58 mins       █████████████████████████   99.92 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 59 mins (100.0%)
-
-✍️ 2,629 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 9,564,537 Input Tokens, 371,136 Output Tokens
-
-💵 $65.64 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 44 AI Prompts
-
-Sonnet                   3,309 lines         █████████████████████████   99.28 % 
-Opus                     24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,862 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +61,7 @@ Go                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:14:19 UTC
+ Last Updated on 02/09/2026 21:12:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
